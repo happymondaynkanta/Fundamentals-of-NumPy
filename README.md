@@ -1,1 +1,1 @@
-# Fundamentals-of-NumPy
+# NumPy is the fundamental package for scientific computing in Python. It is a Python library that provides a multidimensional array object. NumPy provides a strong base for many other data science and data visualization libraries. 
